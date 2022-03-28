@@ -1,0 +1,30 @@
+[4 days ago] 29c91bf5e  (HEAD -> release/3.5.4, origin/release/3.5.4) PMCORE-561-A <Andrea Adamczyk>
+[11 days ago] 96b449dc2  (origin/bugfix/PMCORE-1884-A) PMCORE-1884 <Paula Quispe>
+[11 days ago] f6aac2d16  (origin/bugfix/PMCORE-2308) PMCORE-2308 <Andrea Adamczyk>
+[2 weeks ago] e3fc39e53  (origin/bugfix/PMCORE-2297) PMCORE-2297 The server response a 500 error by trying to login with SAML plugin <Roly Rudy Gutierrez Pinto>
+[2 weeks ago] d60bf88cd  (origin/bugfix/PMCORE-1207) PMCORE-1207 Generic message for wrong credentials and AD users <Roly Rudy Gutierrez Pinto>
+[2 weeks ago] 95058efa9  (origin/feature/PMCORE-2197) feature/PMCORE-2197 <Henry Jordan>
+[2 weeks ago] 8012f6e9e  (origin/bugfix/PMCORE-2267) PMCORE-2267 Unit test: Failed asserting that exception of type "Exception" is thrown. <Roly Rudy Gutierrez Pinto>
+[2 weeks ago] d007a1e16  (origin/bugfix/PMCORE-529) PMCORE-529 <Andrea Adamczyk>
+[3 weeks ago] eb2c4cb32  (origin/bugfix/PMCORE-1884) PMCORE-1884 <Paula Quispe>
+[3 weeks ago] 90ba93f07  (origin/bugfix/PMCORE-1451) PMCORE-1451 La validación de contraseñas también comprueba las políticas de las contraseñas de Active Directory. <Roly Rudy Gutierrez Pinto>
+[3 weeks ago] cd8930910  (origin/bugfix/PMCORE-2149) PMCORE-2149 <Paula Quispe>
+[5 weeks ago] 3d5d11987  (origin/feature/PMCORE-2199) PMCORE-2199 <Julio Cesar Laura Avendaño>
+[5 weeks ago] d748e45eb  (origin/bugfix/PMCORE-561) PMCORE-561 <Andrea Adamczyk>
+[5 weeks ago] 3db929c75  (origin/bugfix/PMCORE-737) PMCORE-737 <Paula Quispe>
+[5 weeks ago] 7d682da3f  (origin/bugfix/PMCORE-1751) PMCORE-1751 <Andrea Adamczyk>
+[5 weeks ago] a04673622  (origin/bugfix/PMCORE-530) PMCORE-530 <Andrea Adamczyk>
+[5 weeks ago] 60be91dc5  (origin/bugfix/PMCORE-2179) PMCORE-2179 <Julio Cesar Laura Avendaño>
+[5 weeks ago] 1241225d3  (origin/bugfix/PMCORE-2150) PMCORE-2150 PMFUpdateUser() function doesn't update due date to all users in RBAC_USERS <Roly Rudy Gutierrez Pinto>
+[6 weeks ago] e7d251772  (origin/bugfix/PMCORE-2128) PMCORE-2128 <Julio Cesar Laura Avendaño>
+[6 weeks ago] 5f040aec9  PMCORE-2133 <Julio Cesar Laura Avendaño>
+[6 weeks ago] ade2239b0  PMCORE-2138 <Julio Cesar Laura Avendaño>
+[6 weeks ago] ea6b91a0f  Fixing some issues found in tests before the first demo <Julio Cesar Laura Avendaño>
+[6 weeks ago] 0d6ff9b88  PMCORE-2101 <Julio Cesar Laura Avendaño>
+[6 weeks ago] a73615ef9  PMCORE-2098 <Julio Cesar Laura Avendaño>
+[6 weeks ago] 0eea5d1ae  Fix PM observations <Julio Cesar Laura Avendaño>
+[6 weeks ago] 582bcccf2  PMCORE-2099 <Julio Cesar Laura Avendaño>
+[6 weeks ago] ee355e020  PMCORE-2115 <Julio Cesar Laura Avendaño>
+[6 weeks ago] e44c6aa6a  PMCORE-2097 <Julio Cesar Laura Avendaño>
+[6 weeks ago] d3d05cc2d  PMCORE-2100 <Julio Cesar Laura Avendaño>
+[6 weeks ago] b6021160c  PMCORE-2102 <Julio Cesar Laura Avendaño>

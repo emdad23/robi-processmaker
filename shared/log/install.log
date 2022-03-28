@@ -1,0 +1,16 @@
+2022:03:22 09:43:20 -------------------------------------------
+2022:03:22 09:43:20 Creating workspace testworkflow
+2022:03:22 09:43:20 Connected to server localhost :3306  using user: 'root'
+2022:03:22 09:43:20 Creating : G:/xampp/htdocs/processmaker/shared//sites/testworkflow/db.php
+2022:03:22 09:43:20 Creating : G:/xampp/htdocs/processmaker/shared//sites/testworkflow/databases.php
+2022:03:22 09:43:20 Processing: G:/xampp/htdocs/processmaker/rbac/engine/data/mysql/schema.sql
+2022:03:22 09:43:21 File: schema.sql processed in 1.0558059215546 seconds
+2022:03:22 09:43:21 Processing: G:/xampp/htdocs/processmaker/rbac/engine/data/mysql/insert.sql
+2022:03:22 09:43:21 File: insert.sql processed in 0.32680106163025 seconds
+2022:03:22 09:43:21 Processing: G:/xampp/htdocs/processmaker/workflow/engine/data/mysql/schema.sql
+2022:03:22 09:43:49 File: schema.sql processed in 28.217149019241 seconds
+2022:03:22 09:43:49 Processing: G:/xampp/htdocs/processmaker/workflow/engine/data/mysql/insert.sql
+2022:03:22 09:44:15 File: insert.sql processed in 25.593030929565 seconds
+2022:03:22 09:44:15 Creating : G:/xampp/htdocs/processmaker/workflow/engine/config/paths_installed.php
+2022:03:22 09:44:15 Index File updated 1 with lang: {en}, skin: {neoclassic}
+2022:03:22 09:44:15 Installation completed successfully.
